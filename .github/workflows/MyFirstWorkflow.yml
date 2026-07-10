@@ -1,0 +1,6 @@
+name: My First Workkflow
+on:
+  push:
+    branches:
+      - main
+    
